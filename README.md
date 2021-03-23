@@ -34,5 +34,6 @@ npm run build # 生产打包
 
 # 参考资料
 
-https://www.jianshu.com/p/36d970a2b4da
-http://www.huhaowb.com/2019/12/10/SSR%E6%8A%A5%E9%94%99-Error/
+- https://www.jianshu.com/p/36d970a2b4da
+
+- http://www.huhaowb.com/2019/12/10/SSR%E6%8A%A5%E9%94%99-Error/
